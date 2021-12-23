@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\manu\\Documents\\DotNet\\PlatformService\\PlatformService.csproj": {}
+    "C:\\Users\\manu\\Documents\\Dot-Net\\WebAPI\\PlatformService\\PlatformService.csproj": {}
   },
   "projects": {
-    "C:\\Users\\manu\\Documents\\DotNet\\PlatformService\\PlatformService.csproj": {
+    "C:\\Users\\manu\\Documents\\Dot-Net\\WebAPI\\PlatformService\\PlatformService.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\manu\\Documents\\DotNet\\PlatformService\\PlatformService.csproj",
+        "projectUniqueName": "C:\\Users\\manu\\Documents\\Dot-Net\\WebAPI\\PlatformService\\PlatformService.csproj",
         "projectName": "PlatformService",
-        "projectPath": "C:\\Users\\manu\\Documents\\DotNet\\PlatformService\\PlatformService.csproj",
+        "projectPath": "C:\\Users\\manu\\Documents\\Dot-Net\\WebAPI\\PlatformService\\PlatformService.csproj",
         "packagesPath": "C:\\Users\\manu\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\manu\\Documents\\DotNet\\PlatformService\\obj\\",
+        "outputPath": "C:\\Users\\manu\\Documents\\Dot-Net\\WebAPI\\PlatformService\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\manu\\AppData\\Roaming\\NuGet\\NuGet.Config"
